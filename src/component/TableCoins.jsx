@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from './Layout';
 import CoinRow from '../component/CoinRow'
 
-const titles = ['#', 'Coin', 'Price', '24h Volume', 'Market Cap']
+const titles = ['', '#', 'Coin', 'Price', '24h Volume', 'Market Cap']
 
 const TableCoins = ({ coins, search }) => {
 
