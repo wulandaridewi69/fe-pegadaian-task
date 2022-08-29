@@ -13,10 +13,13 @@ Localhost : http://localhost:3000/
 ```
 # How To Run
 1. Clone this repo
-
+```bash
+git@github.com:wulandaridewi69/fe-pegadaian-task-coin.git
+```
 
 2. Before run this project, do this in your terminal :
 ```bash
+cd my-app 
 nmp i
 ```
 
