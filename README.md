@@ -1,3 +1,8 @@
+#coin_market
+This application describes the monitoring of coins in the global market using the rupiah currency. In this application we can also see the details of the selected coin. in this application there are 5 pages and each page consists of 25 lines.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
