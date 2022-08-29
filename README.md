@@ -2,6 +2,17 @@
 
 This application describes the monitoring of coins in the global market using the rupiah currency. In this application we can also see the details of the selected coin. in this application there are 5 pages and each page consists of 25 lines.
 
+The challenge there is the creation of a number format
+
+# URL Shortener
+
+ARESTful API using https://www.coingecko.com/en/api/documentation with REACT App.
+
+```bash
+Localhost : http://localhost:3000/
+```
+
+
 
 
 # Getting Started with Create React App
