@@ -1,4 +1,5 @@
-#coin_market
+# Coin Market
+
 This application describes the monitoring of coins in the global market using the rupiah currency. In this application we can also see the details of the selected coin. in this application there are 5 pages and each page consists of 25 lines.
 
 
