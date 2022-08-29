@@ -6,12 +6,24 @@ The challenge there is the creation of a number format
 
 # URL Shortener
 
-ARESTful API using https://www.coingecko.com/en/api/documentation with REACT App.
+A RESTful API using https://www.coingecko.com/en/api/documentation with REACT App.
 
 ```bash
 Localhost : http://localhost:3000/
 ```
+# How To Run
+1. Clone this repo
 
+
+2. Before run this project, do this in your terminal :
+```bash
+nmp i
+```
+
+3. Run this project :
+```bash
+npm start
+```
 
 
 
