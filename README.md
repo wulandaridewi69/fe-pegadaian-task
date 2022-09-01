@@ -45,12 +45,6 @@ Code : 200
 Description : List all coins with market data
 
 ```
-- Screenshoot :
-```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/app.png?raw=true)
-
-```
-
 
 ##### Detail [ /detail/{id} ]
 `GET` /coins/{id}
@@ -68,34 +62,6 @@ cache-control: public,max-age=300
 Description : Get current data for a coin
 
 ```
-
-## Repo Structure
-
-/
-├─ src/
-│  ├─ components/       # Components
-│  │  ├─ Layout.jsx/    # …that govern macro layout
-│  │  └─ Table.jsx/     # …that may appear anywhere
-│  │  
-│  ├─ pages/            # Pages
-│  │  ├─ App.js/        # …that as a homepage for market
-│  │  └─ Detail.jsx/    # …that as a detail coin
-│  │
-│  ├─ routes/           # Routes
-│  │  └─ Route.jsx/     # …navigation between pages
-│  │
-│  ├─ styles/           # Style
-│  │  ├─ App.css/       # …styling for App page
-│  │  └─ index.css/     # …styling for index page
-│  │  
-│  └─ utils/            # Utils
-│      └─ context.js/   # …that have a single purpose/role
-│
-│
-├─ .gitignore           # List of files and folders not tracked by Git
-├─ package.json         # Project manifest
-└─ README.md            # This file
-
 ## Build With:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
